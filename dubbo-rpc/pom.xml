@@ -40,5 +40,7 @@
 		<module>dubbo-rpc-memcached</module>
 		<module>dubbo-rpc-redis</module>
 		<module>dubbo-rpc-rest</module>
+		<module>dubbo-rpc-thrift2</module>
+		<module>dubbo-rpc-avro</module>
 	</modules>
 </project>
